@@ -1,0 +1,67 @@
+
+<Shell
+    x:Class="App.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:view="clr-namespace:App.View"
+    xmlns:local="clr-namespace:App"
+    Shell.FlyoutBehavior="Disabled"
+    Shell.TabBarBackgroundColor="#001c4e"
+    Shell.TabBarForegroundColor="White"
+    Shell.TabBarUnselectedColor="Yellow"
+    Shell.TabBarDisabledColor="Gray">
+
+    <Shell.TitleView>
+        <Grid ColumnDefinitions="*,Auto" BackgroundColor="#00CFFF" >
+            <Label Text="OddSpy" 
+                   FontFamily="Fantasy"
+                   FontSize="40"
+                   TextColor="White"
+                   HorizontalOptions="Center"
+                   Margin="10"/>
+
+
+            <ImageButton x:Name="ProfileIcon"
+                         Source="perfil_icon.png"
+                         WidthRequest="10"
+                         HeightRequest="10"
+                         IsVisible="{Binding IsAuthenticated}"
+                         HorizontalOptions="End"
+                         Margin="20"/>
+        </Grid>
+    </Shell.TitleView>
+    <ShellContent
+        Route="WelcomeContentPage"
+        Shell.TabBarIsVisible="False"
+        ContentTemplate="{DataTemplate view:WelcomeContentPage}" />
+    
+    <ShellContent
+        Route="Login"
+        Shell.TabBarIsVisible="False"
+        ContentTemplate="{DataTemplate view:Login}" />
+
+    <ShellContent 
+        Route="Register"
+        Shell.TabBarIsVisible="False"
+        ContentTemplate="{DataTemplate view:Register}" />
+
+
+    <TabBar x:Name="MainTabBar" 
+            Route="MainTabBar">
+        <ShellContent 
+            Title="" 
+            Icon="home.png" 
+            ContentTemplate="{DataTemplate view:SureBetsContentPage}" />
+
+        <ShellContent 
+            Title="" 
+            Icon="compare.png" 
+            ContentTemplate="{DataTemplate view:BetsComparerContentPage}" />
+
+        <ShellContent 
+            Title="" 
+            Icon="offer.png" 
+            ContentTemplate="{DataTemplate view:PromotionsFinderContentPage}" />
+    </TabBar>
+
+</Shell>

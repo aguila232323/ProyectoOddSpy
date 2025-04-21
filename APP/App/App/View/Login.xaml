@@ -1,0 +1,46 @@
+
+    <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:view="clr-namespace:App.View"
+             x:Class="App.View.Login"
+             Shell.FlyoutBehavior="Disabled"
+             NavigationPage.HasNavigationBar="False"
+             NavigationPage.HasBackButton="False"
+             BackgroundColor="{DynamicResource PageBackgroundColor}">
+
+
+
+        
+    <VerticalStackLayout Spacing="25" Padding="30">
+        
+        <Label Text="Bienvenido"
+                   FontSize="32"
+                   HorizontalOptions="Center" />
+
+            
+            <Entry x:Name="EmailEntry"
+               Placeholder="Email"
+               HorizontalOptions="FillAndExpand"
+               Keyboard="Email" />
+
+            
+            <Entry x:Name="PasswordEntry"
+               Placeholder="Contraseña"
+               IsPassword="True"
+               HorizontalOptions="FillAndExpand" />
+
+            
+            <Button Text="Iniciar Sesión"
+                BackgroundColor="RoyalBlue"
+                TextColor="White"
+                Clicked="OnLoginClicked" />
+
+            
+            <Label x:Name="ErrorLabel"
+               TextColor="Red"
+               IsVisible="False"
+               HorizontalOptions="Center" />
+
+        </VerticalStackLayout>
+
+    </ContentPage>

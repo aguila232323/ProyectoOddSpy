@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.View.WelcomeContentPage"
+             Title="WelcomeContentPage"
+             xmlns:skia="clr-namespace:SkiaSharp.Extended.UI.Controls;assembly=SkiaSharp.Extended.UI"
+             NavigationPage.HasNavigationBar="False">
+    <Grid>
+        <Image Source="fondo.jpg" 
+           Aspect="AspectFill" 
+           HorizontalOptions="FillAndExpand" 
+           VerticalOptions="FillAndExpand"
+           ZIndex="-1" />
+
+        <ScrollView>
+            <VerticalStackLayout
+            Spacing="10"
+            Margin="0,40"
+            Padding="30,0">
+
+
+
+                <skia:SKLottieView
+              RepeatCount="-1"
+              RepeatMode="Reverse"
+              Source="mafia.json" 
+              HeightRequest="400"
+              WidthRequest="400" />
+
+
+
+                <Button Text="Iniciar Sesión" 
+                    Clicked="OnNavigateButtonClickedLogin" 
+                    CornerRadius="10" 
+                    TextColor="White" 
+                    FontAttributes="Bold" 
+                    BackgroundColor="#6a7381" 
+                    HorizontalOptions="Fill" />
+
+                <Label HorizontalTextAlignment="Center"
+               Margin="0,25"
+               TextColor="White">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="¿No tienes cuenta? " />
+                            <Span Text="Regístrate"
+              TextDecorations="Underline"
+              TextColor="LightBlue">
+                                <Span.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="OnRegisterTapped" />
+                                </Span.GestureRecognizers>
+                            </Span>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+
+
+            </VerticalStackLayout>
+        </ScrollView>
+
+    </Grid>
+</ContentPage>

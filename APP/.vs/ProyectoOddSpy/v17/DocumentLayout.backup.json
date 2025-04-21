@@ -1,0 +1,659 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\models\\entities\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\models\\entities\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\migrations\\20250317104552_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\migrations\\20250317104552_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\view\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\resources\\raw\\datos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\resources\\raw\\datos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\view\\surebetscontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\surebetscontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\view\\surebetscontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\surebetscontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\model\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Prados\\Desktop\\datos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\view\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\view\\promotionsfindercontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\promotionsfindercontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\view\\betscomparercontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\betscomparercontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\view\\welcomecontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\welcomecontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\view\\welcomecontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\welcomecontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Prados\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.14\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\view\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\resources\\raw\\mafia.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\resources\\raw\\mafia.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\app\\app\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\github\\proyectofinal\\proyectooddspy\\app\\api\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API\\API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "API\\API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:07:06.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250317104552_initial-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Migrations\\20250317104552_initial-migration.cs",
+              "RelativeDocumentMoniker": "API\\API\\Migrations\\20250317104552_initial-migration.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Migrations\\20250317104552_initial-migration.cs",
+              "RelativeToolTip": "API\\API\\Migrations\\20250317104552_initial-migration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:45:52.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API\\API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "API\\API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:22:49.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Models\\Entities\\AddUserDTO.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\AddUserDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Models\\Entities\\AddUserDTO.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\AddUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:34:04.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Models\\Entities\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Models\\Entities\\LoginRequestDTO.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:20:06.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:32:07.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API\\API.csproj",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\API.csproj",
+              "RelativeToolTip": "API\\API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T18:09:36.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:54:36.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Model\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Model\\LoginDTO.cs",
+              "RelativeToolTip": "App\\App\\Model\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:19:06.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\Login.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\Login.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:34:02.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "datos.json",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Resources\\Raw\\datos.json",
+              "RelativeDocumentMoniker": "App\\App\\Resources\\Raw\\datos.json",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Resources\\Raw\\datos.json",
+              "RelativeToolTip": "App\\App\\Resources\\Raw\\datos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T10:52:14.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Matches.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Model\\Matches.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\Matches.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Model\\Matches.cs",
+              "RelativeToolTip": "App\\App\\Model\\Matches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:34:56.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SureBetsContentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\SureBetsContentPage.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\SureBetsContentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\SureBetsContentPage.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\SureBetsContentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:46:29.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Model\\User.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Model\\User.cs",
+              "RelativeToolTip": "App\\App\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:09:56.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "App\\App\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\MauiProgram.cs",
+              "RelativeToolTip": "App\\App\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:25:25.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\AppShell.xaml",
+              "RelativeDocumentMoniker": "App\\App\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\AppShell.xaml",
+              "RelativeToolTip": "App\\App\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T08:45:01.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SureBetsContentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\SureBetsContentPage.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\SureBetsContentPage.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\SureBetsContentPage.xaml",
+              "RelativeToolTip": "App\\App\\View\\SureBetsContentPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAwwDQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T11:50:27.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\Register.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\Register.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\Register.xaml",
+              "RelativeToolTip": "App\\App\\View\\Register.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T11:34:55.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "datos.json",
+              "DocumentMoniker": "C:\\Users\\Prados\\Desktop\\datos.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\datos.json",
+              "ToolTip": "C:\\Users\\Prados\\Desktop\\datos.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\datos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T09:30:43.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PromotionsFinderContentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\PromotionsFinderContentPage.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\PromotionsFinderContentPage.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\PromotionsFinderContentPage.xaml",
+              "RelativeToolTip": "App\\App\\View\\PromotionsFinderContentPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T09:33:11.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\AppShell.xaml.cs",
+              "RelativeToolTip": "App\\App\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:40:38.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\App.xaml",
+              "RelativeDocumentMoniker": "App\\App\\App.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\App.xaml",
+              "RelativeToolTip": "App\\App\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T10:20:22.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\Login.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\Login.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\Login.xaml",
+              "RelativeToolTip": "App\\App\\View\\Login.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T10:34:00.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BetsComparerContentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\BetsComparerContentPage.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\BetsComparerContentPage.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\BetsComparerContentPage.xaml",
+              "RelativeToolTip": "App\\App\\View\\BetsComparerContentPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T11:38:04.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WelcomeContentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\WelcomeContentPage.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\WelcomeContentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\WelcomeContentPage.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\WelcomeContentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T22:07:16.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WelcomeContentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\WelcomeContentPage.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\WelcomeContentPage.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\WelcomeContentPage.xaml",
+              "RelativeToolTip": "App\\App\\View\\WelcomeContentPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T12:00:20.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\App.xaml.cs",
+              "RelativeToolTip": "App\\App\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:45:21.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\Register.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\View\\Register.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\Register.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwEUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:16:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.Maui.Controls.targets",
+              "DocumentMoniker": "C:\\Users\\Prados\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.14\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.14\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "ToolTip": "C:\\Users\\Prados\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.14\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.14\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAjwKoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-20T22:15:24.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.csproj",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\App.csproj",
+              "RelativeDocumentMoniker": "App\\App\\App.csproj",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\App.csproj",
+              "RelativeToolTip": "App\\App\\App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T08:38:18.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "App\\App\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Properties\\launchSettings.json",
+              "RelativeToolTip": "App\\App\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T09:10:04.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\App.csproj",
+              "RelativeDocumentMoniker": "App\\App\\App.csproj",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\App.csproj",
+              "RelativeToolTip": "App\\App\\App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T09:10:03.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "mafia.json",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Resources\\Raw\\mafia.json",
+              "RelativeDocumentMoniker": "App\\App\\Resources\\Raw\\mafia.json",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Resources\\Raw\\mafia.json",
+              "RelativeToolTip": "App\\App\\Resources\\Raw\\mafia.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T11:37:09.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:38:13.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T08:54:38.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "App\\App\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "App\\App\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-08T09:17:15.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "App\\App\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "App\\App\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-08T09:17:27.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "App\\App\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\App\\App\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "App\\App\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:36:02.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API\\API.csproj",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\API.csproj",
+              "RelativeToolTip": "API\\API\\API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T09:13:30.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APP\\API\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T09:13:15.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

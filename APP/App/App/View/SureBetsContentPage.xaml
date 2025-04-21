@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.View.SureBetsContentPage"
+             Shell.FlyoutBehavior="Disabled"
+             Title="SureBetsContentPage"
+             NavigationPage.HasNavigationBar="False">
+
+    <Grid>
+        <Image Source="fondo.jpg" 
+       Aspect="AspectFill" 
+       HorizontalOptions="FillAndExpand" 
+       VerticalOptions="FillAndExpand"
+       ZIndex="-1" />
+
+        <CollectionView x:Name="collectionView" Margin="10">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10"
+                      ColumnSpacing="10"
+                      RowDefinitions="Auto"
+                      ColumnDefinitions="Auto,*,Auto,Auto,Auto,Auto,Auto,Auto"
+                      BackgroundColor="#2e2e2e"
+                      Margin="0,5">
+                        <!-- Fecha -->
+                        <Label Text="{Binding Time}"
+                           Grid.ColumnSpan="8"
+                           TextColor="White"
+                           FontAttributes="Bold"
+                           FontSize="14"
+                           Margin="0,0,0,5" />
+
+
+                        <!-- Nombres de equipos -->
+                        <StackLayout Orientation="Vertical" Grid.Column="1">
+                            <Label Text="{Binding HomeTeam}" TextColor="White" FontSize="14" />
+                            <Label Text="{Binding AwayTeam}" TextColor="White" FontSize="14" />
+                        </StackLayout>
+
+                        <!-- Cuotas 1X2 -->
+                        <Label Text="{Binding Odds1}" Grid.Column="2" TextColor="Gold" HorizontalOptions="Center" />
+                        <Label Text="{Binding OddsX}" Grid.Column="3" TextColor="Gold" HorizontalOptions="Center" />
+                        <Label Text="{Binding Odds2}" Grid.Column="4" TextColor="Gold" HorizontalOptions="Center" />
+
+                        <!-- Más/Menos de 2.5 -->
+                        <Label Text="{Binding Over25}" Grid.Column="5" TextColor="LightGreen" HorizontalOptions="Center" />
+                        <Label Text="{Binding Under25}" Grid.Column="6" TextColor="LightBlue" HorizontalOptions="Center" />
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</ContentPage>

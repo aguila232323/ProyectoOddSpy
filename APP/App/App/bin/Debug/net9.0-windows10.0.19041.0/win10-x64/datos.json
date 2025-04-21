@@ -1,0 +1,972 @@
+[
+    {
+        "HomeTeam": "SP Falcons FC",
+        "AwayTeam": "Khoromkhon Klub",
+        "Time": "Comienza en 11′",
+        "Odds1": "1.14",
+        "OddsX": "4.0",
+        "Odds2": "6.0",
+        "Over25": "1.36",
+        "Under25": "2.7"
+    },
+    {
+        "HomeTeam": "Newport County",
+        "AwayTeam": "Walsall",
+        "Time": "Comienza en 26′",
+        "Odds1": "5.5",
+        "OddsX": "3.6",
+        "Odds2": "1.44",
+        "Over25": "1.68",
+        "Under25": "2.0"
+    },
+    {
+        "HomeTeam": "DAZN",
+        "AwayTeam": "Woking",
+        "Time": "Comienza en 26′",
+        "Odds1": "1.95",
+        "OddsX": "2.4",
+        "Odds2": "2.75",
+        "Over25": "1.95",
+        "Under25": "1.68"
+    },
+    {
+        "HomeTeam": "Lucksta IF",
+        "AwayTeam": "Umea fc Akademi",
+        "Time": "Comienza en 26′",
+        "Odds1": "2.1",
+        "OddsX": "2.5",
+        "Odds2": "2.1",
+        "Over25": "1.34",
+        "Under25": "2.8"
+    },
+    {
+        "HomeTeam": "Bournemouth Sub-21",
+        "AwayTeam": "Ipswich Town U21",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.44",
+        "OddsX": "3.4",
+        "Odds2": "4.2",
+        "Over25": "1.28",
+        "Under25": "3.3"
+    },
+    {
+        "HomeTeam": "Djungardens",
+        "AwayTeam": "GAIS",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.91",
+        "OddsX": "2.7",
+        "Odds2": "3.6",
+        "Over25": "2.05",
+        "Under25": "1.65"
+    },
+    {
+        "HomeTeam": "Viborg",
+        "AwayTeam": "Lyngby",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.62",
+        "OddsX": "3.1",
+        "Odds2": "4.33",
+        "Over25": "1.65",
+        "Under25": "2.05"
+    },
+    {
+        "HomeTeam": "Vejle",
+        "AwayTeam": "Silkeborg",
+        "Time": "Comienza en 56′",
+        "Odds1": "2.8",
+        "OddsX": "2.88",
+        "Odds2": "2.0",
+        "Over25": "1.55",
+        "Under25": "2.2"
+    },
+    {
+        "HomeTeam": "Chemie Leipzig",
+        "AwayTeam": "Viktoria Berlin",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.8",
+        "OddsX": "2.5",
+        "Odds2": "2.75",
+        "Over25": "1.8",
+        "Under25": "1.8"
+    },
+    {
+        "HomeTeam": "Fasil Kenema",
+        "AwayTeam": "Dire Dawa Kima FC",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.85",
+        "OddsX": "2.3",
+        "Odds2": "3.25",
+        "Over25": "2.8",
+        "Under25": "1.34"
+    },
+    {
+        "HomeTeam": "Scarborough Athletic",
+        "AwayTeam": "Darlington",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.8",
+        "OddsX": "2.5",
+        "Odds2": "2.75",
+        "Over25": "1.64",
+        "Under25": "2.0"
+    },
+    {
+        "HomeTeam": "Maidstone Utd",
+        "AwayTeam": "Tonbridge",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.09",
+        "OddsX": "4.5",
+        "Odds2": "10.0",
+        "Over25": "1.64",
+        "Under25": "2.0"
+    },
+    {
+        "HomeTeam": "Tampereen Ilves II",
+        "AwayTeam": "MuSa",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.16",
+        "OddsX": "4.0",
+        "Odds2": "5.5",
+        "Over25": "1.13",
+        "Under25": "4.5"
+    },
+    {
+        "HomeTeam": "JPS",
+        "AwayTeam": "VJS",
+        "Time": "Comienza en 56′",
+        "Odds1": "10.0",
+        "OddsX": "5.5",
+        "Odds2": "1.07",
+        "Over25": "1.28",
+        "Under25": "3.1"
+    },
+    {
+        "HomeTeam": "GBK",
+        "AwayTeam": "VPS Vaasa II",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.55",
+        "OddsX": "3.0",
+        "Odds2": "2.75",
+        "Over25": "1.15",
+        "Under25": "4.2"
+    },
+    {
+        "HomeTeam": "Kuopion Elo",
+        "AwayTeam": "JS Hercules",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.95",
+        "OddsX": "2.75",
+        "Odds2": "2.2",
+        "Over25": "1.17",
+        "Under25": "4.0"
+    },
+    {
+        "HomeTeam": "Ppj",
+        "AwayTeam": "Pallo-Iirot",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.75",
+        "OddsX": "2.75",
+        "Odds2": "2.75",
+        "Over25": "1.36",
+        "Under25": "2.7"
+    },
+    {
+        "HomeTeam": "Nykobing FC",
+        "AwayTeam": "Frem",
+        "Time": "Comienza en 56′",
+        "Odds1": "2.75",
+        "OddsX": "2.5",
+        "Odds2": "1.85",
+        "Over25": "1.8",
+        "Under25": "1.8"
+    },
+    {
+        "HomeTeam": "AGF Aarhus (W)",
+        "AwayTeam": "Koge (W)",
+        "Time": "Comienza en 56′",
+        "Odds1": "3.0",
+        "OddsX": "2.5",
+        "Odds2": "1.75",
+        "Over25": "1.8",
+        "Under25": "1.8"
+    },
+    {
+        "HomeTeam": "Vanlose",
+        "AwayTeam": "Ringsted IF",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.46",
+        "OddsX": "2.75",
+        "Odds2": "3.5",
+        "Over25": "1.54",
+        "Under25": "2.2"
+    },
+    {
+        "HomeTeam": "Jerv",
+        "AwayTeam": "Sandvikens",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.2",
+        "OddsX": "3.5",
+        "Odds2": "6.0",
+        "Over25": "1.54",
+        "Under25": "2.2"
+    },
+    {
+        "HomeTeam": "Eskilstuna Utd (W)",
+        "AwayTeam": "Sunnana SK (W)",
+        "Time": "Comienza en 56′",
+        "Odds1": "1.48",
+        "OddsX": "2.75",
+        "Odds2": "3.5",
+        "Over25": "1.64",
+        "Under25": "2.0"
+    },
+    {
+        "HomeTeam": "FK Tukums 2000",
+        "AwayTeam": "FK Ventspils",
+        "Time": "Comienza en 56′",
+        "Odds1": "2.5",
+        "OddsX": "2.5",
+        "Odds2": "1.9",
+        "Over25": "1.68",
+        "Under25": "1.95"
+    },
+    {
+        "HomeTeam": "Znicz Pruszkow",
+        "AwayTeam": "Nieciecza",
+        "Time": "14:30",
+        "Odds1": "2.75",
+        "OddsX": "2.5",
+        "Odds2": "1.85",
+        "Over25": "1.8",
+        "Under25": "1.8"
+    },
+    {
+        "HomeTeam": "Valerenga",
+        "AwayTeam": "Rosenborg",
+        "Time": "14:30",
+        "Odds1": "2.5",
+        "OddsX": "2.8",
+        "Odds2": "2.3",
+        "Over25": "1.55",
+        "Under25": "2.2"
+    },
+    {
+        "HomeTeam": "Rapid Vienna (Am)",
+        "AwayTeam": "KSV 1919",
+        "Time": "14:30",
+        "Odds1": "2.2",
+        "OddsX": "2.5",
+        "Odds2": "2.2",
+        "Over25": "1.54",
+        "Under25": "2.2"
+    },
+    {
+        "HomeTeam": "FC Liefering",
+        "AwayTeam": "St Polten",
+        "Time": "14:30",
+        "Odds1": "2.5",
+        "OddsX": "2.5",
+        "Odds2": "1.95",
+        "Over25": "1.64",
+        "Under25": "2.0"
+    },
+    {
+        "HomeTeam": "Utrecht Femenino",
+        "AwayTeam": "Feyenoord Femenino",
+        "Time": "14:30",
+        "Odds1": "1.7",
+        "OddsX": "2.5",
+        "Odds2": "3.0",
+        "Over25": "1.6",
+        "Under25": "2.1"
+    },
+    {
+        "HomeTeam": "AC Sporting Beirut",
+        "AwayTeam": "Nahda Bar Elias",
+        "Time": "14:30",
+        "Odds1": "1.67",
+        "OddsX": "2.88",
+        "Odds2": "3.6",
+        "Over25": "1.75",
+        "Under25": "1.95"
+    },
+    {
+        "HomeTeam": "Chitipa United FC",
+        "AwayTeam": "Ekhaya FC",
+        "Time": "14:30",
+        "Odds1": "2.0",
+        "OddsX": "2.4",
+        "Odds2": "2.5",
+        "Over25": "2.2",
+        "Under25": "1.54"
+    },
+    {
+        "HomeTeam": "Jagiellonia Bialystock",
+        "AwayTeam": "Zaglebie Lubin",
+        "Time": "14:45",
+        "Odds1": "1.5",
+        "OddsX": "2.75",
+        "Odds2": "3.5",
+        "Over25": "1.64",
+        "Under25": "2.0"
+    },
+    {
+        "HomeTeam": "Shamrock Rovers",
+        "AwayTeam": "Bohemians",
+        "Time": "15:00",
+        "Odds1": "1.5",
+        "OddsX": "3.2",
+        "Odds2": "5.5",
+        "Over25": "2.05",
+        "Under25": "1.65"
+    },
+    {
+        "HomeTeam": "Radomlje",
+        "AwayTeam": "Celje",
+        "Time": "15:00",
+        "Odds1": "3.5",
+        "OddsX": "3.0",
+        "Odds2": "1.42",
+        "Over25": "1.54",
+        "Under25": "2.2"
+    },
+    {
+        "HomeTeam": "HB Koge",
+        "AwayTeam": "Hobro",
+        "Time": "15:00",
+        "Odds1": "2.3",
+        "OddsX": "2.5",
+        "Odds2": "2.1",
+        "Over25": "1.68",
+        "Under25": "1.95"
+    },
+    {
+        "HomeTeam": "Rosengard (W)",
+        "AwayTeam": "Kristianstads (W)",
+        "Time": "15:00",
+        "Odds1": "1.9",
+        "OddsX": "2.5",
+        "Odds2": "2.5",
+        "Over25": "1.72",
+        "Under25": "1.9"
+    },
+    {
+        "HomeTeam": "SV Ried",
+        "AwayTeam": "SC Austria Lustenau",
+        "Time": "15:00",
+        "Odds1": "1.26",
+        "OddsX": "3.25",
+        "Odds2": "5.5",
+        "Over25": "1.72",
+        "Under25": "1.9"
+    },
+    {
+        "HomeTeam": "FC Nordsjaelland Femenino",
+        "AwayTeam": "Fortuna Hjorring (W)",
+        "Time": "15:00",
+        "Odds1": "2.0",
+        "OddsX": "2.4",
+        "Odds2": "2.5",
+        "Over25": "1.85",
+        "Under25": "1.75"
+    },
+    {
+        "HomeTeam": "Zesco United",
+        "AwayTeam": "Lumwana Radiants",
+        "Time": "15:00",
+        "Odds1": "1.36",
+        "OddsX": "2.75",
+        "Odds2": "5.5",
+        "Over25": "2.3",
+        "Under25": "1.5"
+    },
+    {
+        "HomeTeam": "Floy Flekkeroy",
+        "AwayTeam": "Eik-Tonsberg",
+        "Time": "15:00",
+        "Odds1": "2.5",
+        "OddsX": "2.5",
+        "Odds2": "1.85",
+        "Over25": "1.6",
+        "Under25": "2.1"
+    },
+    {
+        "HomeTeam": "Asker",
+        "AwayTeam": "Eidsvold Turn",
+        "Time": "15:00",
+        "Odds1": "2.4",
+        "OddsX": "2.5",
+        "Odds2": "1.9",
+        "Over25": "1.34",
+        "Under25": "2.8"
+    },
+    {
+        "HomeTeam": "Fram Larvik",
+        "AwayTeam": "Ready Fotball",
+        "Time": "15:00",
+        "Odds1": "1.14",
+        "OddsX": "4.0",
+        "Odds2": "6.0",
+        "Over25": "1.3",
+        "Under25": "3.0"
+    },
+    {
+        "HomeTeam": "Fyllingsdalen",
+        "AwayTeam": "Forde",
+        "Time": "15:00",
+        "Odds1": "2.4",
+        "OddsX": "2.5",
+        "Odds2": "1.9",
+        "Over25": "1.34",
+        "Under25": "2.8"
+    },
+    {
+        "HomeTeam": "Spjelkavik IL",
+        "AwayTeam": "Byasen",
+        "Time": "15:00",
+        "Odds1": "2.3",
+        "OddsX": "2.5",
+        "Odds2": "2.0",
+        "Over25": "1.36",
+        "Under25": "2.7"
+    },
+    {
+        "HomeTeam": "Ranheim 2",
+        "AwayTeam": "Nardo FK",
+        "Time": "15:00",
+        "Odds1": "8.0",
+        "OddsX": "4.5",
+        "Odds2": "1.09",
+        "Over25": "1.36",
+        "Under25": "2.7"
+    },
+    {
+        "HomeTeam": "Coastal Union",
+        "AwayTeam": "Kengold FC",
+        "Time": "15:00",
+        "Odds1": "1.14",
+        "OddsX": "4.0",
+        "Odds2": "8.0",
+        "Over25": "1.54",
+        "Under25": "2.2"
+    },
+    {
+        "HomeTeam": "Anderlecht Femenino",
+        "AwayTeam": "Standard de Lieja Femenino",
+        "Time": "15:00",
+        "Odds1": "1.9",
+        "OddsX": "2.4",
+        "Odds2": "2.75",
+        "Over25": "2.0",
+        "Under25": "1.64"
+    },
+    {
+        "HomeTeam": "Maccabi Bnei Abu Snan",
+        "AwayTeam": "Beitar Nahariya",
+        "Time": "15:00",
+        "Odds1": "1.85",
+        "OddsX": "2.75",
+        "Odds2": "2.5",
+        "Over25": "1.36",
+        "Under25": "2.7"
+    },
+    {
+        "HomeTeam": "Hapoel Tirat HaCarmel",
+        "AwayTeam": "Beitar Haifa Yakov",
+        "Time": "15:00",
+        "Odds1": "1.55",
+        "OddsX": "2.75",
+        "Odds2": "3.25",
+        "Over25": "1.5",
+        "Under25": "2.3"
+    },
+    {
+        "HomeTeam": "SC Tzeirey Haifa",
+        "AwayTeam": "Hapoel Yafia",
+        "Time": "15:00",
+        "Odds1": "2.3",
+        "OddsX": "2.5",
+        "Odds2": "2.0",
+        "Over25": "1.3",
+        "Under25": "3.0"
+    },
+    {
+        "HomeTeam": "Maccabi Neve Shaanan Eldad",
+        "AwayTeam": "FC Tzofi Haifa",
+        "Time": "15:00",
+        "Odds1": "1.12",
+        "OddsX": "4.0",
+        "Odds2": "6.0",
+        "Over25": "1.29",
+        "Under25": "3.05"
+    },
+    {
+        "HomeTeam": "Al-Ain",
+        "AwayTeam": "Al-Zulfi SC",
+        "Time": "15:15",
+        "Odds1": "2.5",
+        "OddsX": "2.4",
+        "Odds2": "2.2",
+        "Over25": "2.2",
+        "Under25": "1.55"
+    },
+    {
+        "HomeTeam": "Sporting Club",
+        "AwayTeam": "Abo Qair Semads",
+        "Time": "15:30",
+        "Odds1": "5.0",
+        "OddsX": "2.75",
+        "Odds2": "1.44",
+        "Over25": "2.2",
+        "Under25": "1.55"
+    },
+    {
+        "HomeTeam": "Asyut Petroleum",
+        "AwayTeam": "Tanta",
+        "Time": "15:30",
+        "Odds1": "2.4",
+        "OddsX": "2.1",
+        "Odds2": "2.5",
+        "Over25": "3.0",
+        "Under25": "1.3"
+    },
+    {
+        "HomeTeam": "Tersana SC",
+        "AwayTeam": "Proxy Work Club",
+        "Time": "15:30",
+        "Odds1": "2.0",
+        "OddsX": "2.3",
+        "Odds2": "2.75",
+        "Over25": "2.6",
+        "Under25": "1.4"
+    },
+    {
+        "HomeTeam": "Suez Montakhab",
+        "AwayTeam": "El Mansurah",
+        "Time": "15:30",
+        "Odds1": "2.5",
+        "OddsX": "2.2",
+        "Odds2": "2.3",
+        "Over25": "2.7",
+        "Under25": "1.38"
+    },
+    {
+        "HomeTeam": "Septemvri",
+        "AwayTeam": "PFC Levski Sofia",
+        "Time": "15:30",
+        "Odds1": "6.0",
+        "OddsX": "3.25",
+        "Odds2": "1.22",
+        "Over25": "1.72",
+        "Under25": "1.95"
+    },
+    {
+        "HomeTeam": "Hull",
+        "AwayTeam": "Preston",
+        "Time": "16:00",
+        "Odds1": "1.83",
+        "OddsX": "2.8",
+        "Odds2": "3.75",
+        "Over25": "2.15",
+        "Under25": "1.62"
+    },
+    {
+        "HomeTeam": "Sheffield Wednesday",
+        "AwayTeam": "Middlesbrough",
+        "Time": "16:00",
+        "Odds1": "3.0",
+        "OddsX": "2.8",
+        "Odds2": "2.1",
+        "Over25": "1.75",
+        "Under25": "1.95"
+    },
+    {
+        "HomeTeam": "QPR",
+        "AwayTeam": "Swansea",
+        "Time": "16:00",
+        "Odds1": "2.3",
+        "OddsX": "2.63",
+        "Odds2": "2.88",
+        "Over25": "2.25",
+        "Under25": "1.58"
+    },
+    {
+        "HomeTeam": "Cardiff",
+        "AwayTeam": "Oxford United",
+        "Time": "16:00",
+        "Odds1": "1.83",
+        "OddsX": "2.75",
+        "Odds2": "4.33",
+        "Over25": "2.3",
+        "Under25": "1.55"
+    },
+    {
+        "HomeTeam": "Sunderland",
+        "AwayTeam": "Blackburn",
+        "Time": "16:00",
+        "Odds1": "1.67",
+        "OddsX": "3.0",
+        "Odds2": "4.5",
+        "Over25": "2.0",
+        "Under25": "1.7"
+    },
+    {
+        "HomeTeam": "Luton",
+        "AwayTeam": "Bristol City",
+        "Time": "16:00",
+        "Odds1": "2.38",
+        "OddsX": "2.63",
+        "Odds2": "2.88",
+        "Over25": "2.15",
+        "Under25": "1.62"
+    },
+    {
+        "HomeTeam": "Plymouth",
+        "AwayTeam": "Coventry",
+        "Time": "16:00",
+        "Odds1": "4.5",
+        "OddsX": "3.25",
+        "Odds2": "1.57",
+        "Over25": "1.6",
+        "Under25": "2.2"
+    },
+    {
+        "HomeTeam": "West Bromwich",
+        "AwayTeam": "Derby",
+        "Time": "16:00",
+        "Odds1": "1.83",
+        "OddsX": "2.8",
+        "Odds2": "4.0",
+        "Over25": "2.2",
+        "Under25": "1.6"
+    },
+    {
+        "HomeTeam": "Millwall",
+        "AwayTeam": "Norwich",
+        "Time": "16:00",
+        "Odds1": "2.1",
+        "OddsX": "2.7",
+        "Odds2": "3.25",
+        "Over25": "2.1",
+        "Under25": "1.65"
+    },
+    {
+        "HomeTeam": "Portsmouth",
+        "AwayTeam": "Watford",
+        "Time": "16:00",
+        "Odds1": "1.91",
+        "OddsX": "2.88",
+        "Odds2": "3.6",
+        "Over25": "1.95",
+        "Under25": "1.75"
+    },
+    {
+        "HomeTeam": "Leeds",
+        "AwayTeam": "Stoke",
+        "Time": "16:00",
+        "Odds1": "1.2",
+        "OddsX": "5.0",
+        "Odds2": "12.0",
+        "Over25": "1.6",
+        "Under25": "2.2"
+    },
+    {
+        "HomeTeam": "Barnsley",
+        "AwayTeam": "Peterborough",
+        "Time": "16:00",
+        "Odds1": "2.25",
+        "OddsX": "3.0",
+        "Odds2": "2.5",
+        "Over25": "1.38",
+        "Under25": "2.8"
+    },
+    {
+        "HomeTeam": "Bristol Rovers",
+        "AwayTeam": "Stevenage",
+        "Time": "16:00",
+        "Odds1": "2.3",
+        "OddsX": "2.6",
+        "Odds2": "2.88",
+        "Over25": "2.25",
+        "Under25": "1.58"
+    },
+    {
+        "HomeTeam": "Cambridge United",
+        "AwayTeam": "Leyton Orient",
+        "Time": "16:00",
+        "Odds1": "3.6",
+        "OddsX": "2.88",
+        "Odds2": "1.83",
+        "Over25": "1.83",
+        "Under25": "1.83"
+    },
+    {
+        "HomeTeam": "Lincoln",
+        "AwayTeam": "Bolton",
+        "Time": "16:00",
+        "Odds1": "2.88",
+        "OddsX": "2.7",
+        "Odds2": "2.25",
+        "Over25": "2.0",
+        "Under25": "1.7"
+    },
+    {
+        "HomeTeam": "Wycombe",
+        "AwayTeam": "Charlton",
+        "Time": "16:00",
+        "Odds1": "1.83",
+        "OddsX": "2.75",
+        "Odds2": "3.75",
+        "Over25": "2.2",
+        "Under25": "1.6"
+    },
+    {
+        "HomeTeam": "Stockport",
+        "AwayTeam": "Huddersfield",
+        "Time": "16:00",
+        "Odds1": "1.73",
+        "OddsX": "2.88",
+        "Odds2": "4.33",
+        "Over25": "2.0",
+        "Under25": "1.7"
+    },
+    {
+        "HomeTeam": "Blackpool",
+        "AwayTeam": "Wrexham",
+        "Time": "16:00",
+        "Odds1": "2.4",
+        "OddsX": "2.7",
+        "Odds2": "2.63",
+        "Over25": "1.9",
+        "Under25": "1.8"
+    },
+    {
+        "HomeTeam": "Mansfield",
+        "AwayTeam": "Reading",
+        "Time": "16:00",
+        "Odds1": "2.0",
+        "OddsX": "2.88",
+        "Odds2": "3.25",
+        "Over25": "1.68",
+        "Under25": "2.05"
+    },
+    {
+        "HomeTeam": "Northampton",
+        "AwayTeam": "Shrewsbury",
+        "Time": "16:00",
+        "Odds1": "1.44",
+        "OddsX": "3.4",
+        "Odds2": "6.0",
+        "Over25": "1.95",
+        "Under25": "1.75"
+    },
+    {
+        "HomeTeam": "Burton Albion",
+        "AwayTeam": "Birmingham",
+        "Time": "16:00",
+        "Odds1": "4.0",
+        "OddsX": "3.0",
+        "Odds2": "1.73",
+        "Over25": "1.83",
+        "Under25": "1.83"
+    },
+    {
+        "HomeTeam": "Wigan",
+        "AwayTeam": "Rotherham",
+        "Time": "16:00",
+        "Odds1": "2.2",
+        "OddsX": "2.63",
+        "Odds2": "3.1",
+        "Over25": "2.25",
+        "Under25": "1.58"
+    },
+    {
+        "HomeTeam": "Crawley",
+        "AwayTeam": "Exeter",
+        "Time": "16:00",
+        "Odds1": "2.0",
+        "OddsX": "2.8",
+        "Odds2": "3.1",
+        "Over25": "1.75",
+        "Under25": "1.95"
+    },
+    {
+        "HomeTeam": "Accrington",
+        "AwayTeam": "Carlisle",
+        "Time": "16:00",
+        "Odds1": "2.25",
+        "OddsX": "2.7",
+        "Odds2": "2.88",
+        "Over25": "2.0",
+        "Under25": "1.7"
+    },
+    {
+        "HomeTeam": "Morecambe",
+        "AwayTeam": "Salford City",
+        "Time": "16:00",
+        "Odds1": "3.25",
+        "OddsX": "2.88",
+        "Odds2": "2.0",
+        "Over25": "1.83",
+        "Under25": "1.83"
+    },
+    {
+        "HomeTeam": "Swindon",
+        "AwayTeam": "Bromley",
+        "Time": "16:00",
+        "Odds1": "1.67",
+        "OddsX": "3.2",
+        "Odds2": "4.2",
+        "Over25": "1.6",
+        "Under25": "2.2"
+    },
+    {
+        "HomeTeam": "Port Vale",
+        "AwayTeam": "Grimsby",
+        "Time": "16:00",
+        "Odds1": "2.0",
+        "OddsX": "2.7",
+        "Odds2": "3.6",
+        "Over25": "2.25",
+        "Under25": "1.58"
+    },
+    {
+        "HomeTeam": "Doncaster",
+        "AwayTeam": "Colchester",
+        "Time": "16:00",
+        "Odds1": "1.73",
+        "OddsX": "2.88",
+        "Odds2": "4.33",
+        "Over25": "2.0",
+        "Under25": "1.7"
+    },
+    {
+        "HomeTeam": "Chesterfield",
+        "AwayTeam": "Bradford",
+        "Time": "16:00",
+        "Odds1": "2.4",
+        "OddsX": "2.75",
+        "Odds2": "2.63",
+        "Over25": "2.0",
+        "Under25": "1.7"
+    },
+    {
+        "HomeTeam": "Barrow",
+        "AwayTeam": "Tranmere",
+        "Time": "16:00",
+        "Odds1": "2.1",
+        "OddsX": "2.63",
+        "Odds2": "3.3",
+        "Over25": "2.2",
+        "Under25": "1.6"
+    },
+    {
+        "HomeTeam": "Gillingham",
+        "AwayTeam": "AFC Wimbledon",
+        "Time": "16:00",
+        "Odds1": "3.1",
+        "OddsX": "2.6",
+        "Odds2": "2.25",
+        "Over25": "2.4",
+        "Under25": "1.5"
+    },
+    {
+        "HomeTeam": "Notts County",
+        "AwayTeam": "Cheltenham",
+        "Time": "16:00",
+        "Odds1": "1.44",
+        "OddsX": "3.6",
+        "Odds2": "5.5",
+        "Over25": "1.55",
+        "Under25": "2.3"
+    },
+    {
+        "HomeTeam": "Crewe",
+        "AwayTeam": "MK Dons",
+        "Time": "16:00",
+        "Odds1": "2.0",
+        "OddsX": "2.8",
+        "Odds2": "3.3",
+        "Over25": "1.9",
+        "Under25": "1.8"
+    },
+    {
+        "HomeTeam": "Harrogate Town",
+        "AwayTeam": "Fleetwood Town",
+        "Time": "16:00",
+        "Odds1": "2.4",
+        "OddsX": "2.63",
+        "Odds2": "2.7",
+        "Over25": "2.1",
+        "Under25": "1.65"
+    },
+    {
+        "HomeTeam": "BVSC Zuglo",
+        "AwayTeam": "Vasas",
+        "Time": "16:00",
+        "Odds1": "3.5",
+        "OddsX": "2.5",
+        "Odds2": "1.6",
+        "Over25": "2.1",
+        "Under25": "1.6"
+    },
+    {
+        "HomeTeam": "Brondby",
+        "AwayTeam": "Randers",
+        "Time": "16:00",
+        "Odds1": "1.62",
+        "OddsX": "3.2",
+        "Odds2": "4.0",
+        "Over25": "1.55",
+        "Under25": "2.3"
+    },
+    {
+        "HomeTeam": "Kolding IF",
+        "AwayTeam": "AC Horsens",
+        "Time": "16:00",
+        "Odds1": "2.1",
+        "OddsX": "2.5",
+        "Odds2": "2.5",
+        "Over25": "1.85",
+        "Under25": "1.8"
+    },
+    {
+        "HomeTeam": "DAZN",
+        "AwayTeam": "Forest Green",
+        "Time": "16:00",
+        "Odds1": "1.55",
+        "OddsX": "2.5",
+        "Odds2": "3.5",
+        "Over25": "1.82",
+        "Under25": "1.82"
+    },
+    {
+        "HomeTeam": "DAZN",
+        "AwayTeam": "Solihull Moors",
+        "Time": "16:00",
+        "Odds1": "1.8",
+        "OddsX": "2.5",
+        "Odds2": "2.75",
+        "Over25": "1.82",
+        "Under25": "1.82"
+    },
+    {
+        "HomeTeam": "DAZN",
+        "AwayTeam": "Wealdstone",
+        "Time": "16:00",
+        "Odds1": "1.9",
+        "OddsX": "2.5",
+        "Odds2": "2.5",
+        "Over25": "1.65",
+        "Under25": "2.05"
+    },
+    {
+        "HomeTeam": "DAZN",
+        "AwayTeam": "Ebbsfleet Utd",
+        "Time": "16:00",
+        "Odds1": "4.5",
+        "OddsX": "3.0",
+        "Odds2": "1.36",
+        "Over25": "1.65",
+        "Under25": "2.05"
+    }
+]
