@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.View.BetsComparerContentPage"
+             xmlns:skia="clr-namespace:SkiaSharp.Extended.UI.Controls;assembly=SkiaSharp.Extended.UI"
+             xmlns:local="clr-namespace:App.View"
+             Shell.FlyoutBehavior="Disabled"
+             Title="BetsComparerContentPage">
+
+    <Grid RowDefinitions="Auto,*">
+        <Image Source="fondo.jpg"
+               Aspect="AspectFill"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand"
+               Grid.RowSpan="2"
+               ZIndex="-1" />
+
+        <!-- SearchBar -->
+        <Frame Grid.Row="0"
+               CornerRadius="20"
+               Margin="15,50,15,10"
+               Padding="0"
+               BackgroundColor="#1A1A1A"
+               BorderColor="#3E404C"
+               HasShadow="False"
+               HeightRequest="50"
+               HorizontalOptions="FillAndExpand">
+            <SearchBar x:Name="searchBar"
+                       Placeholder="Buscar equipo..."
+                       TextChanged="OnSearchBarTextChanged"
+                       BackgroundColor="Transparent"
+                       TextColor="White"
+                       PlaceholderColor="#CCCCCC"
+                       FontFamily="Inter24"
+                       FontSize="14"
+                       CancelButtonColor="Gray"
+                       HeightRequest="50"
+                       HorizontalOptions="FillAndExpand"/>
+        </Frame>
+
+        <skia:SKLottieView x:Name="loadingAnimation"
+                           Grid.Row="1"
+                           Source="loading.json"
+                           RepeatCount="-1"
+                           IsVisible="True"
+                           HeightRequest="250"
+                           WidthRequest="250"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center" />
+
+        <CollectionView x:Name="collectionView"
+                        Grid.Row="1"
+                        Margin="10,0,10,10"
+                        SelectionMode="None"        
+                        IsVisible="False">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame CornerRadius="15"
+                           Padding="0"
+                           Margin="10,5"
+                           BackgroundColor="#1A1A1A"
+                           HasShadow="False"
+                           BorderColor="#3E404C">
+
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer 
+                                Command="{Binding Source={RelativeSource AncestorType={x:Type local:BetsComparerContentPage}}, Path=ItemTappedCommand}"
+                                CommandParameter="{Binding .}" />
+                        </Frame.GestureRecognizers>
+
+                        <Grid RowDefinitions="Auto,Auto,Auto"
+                              ColumnDefinitions="*"
+                              Padding="12"
+                              RowSpacing="10">
+
+                            <!-- Tipo de evento -->
+                            <Grid Grid.Row="0" ColumnDefinitions="*,Auto" VerticalOptions="Center">
+                                <Label Text="⚽ Football"
+                                       TextColor="White"
+                                       FontSize="13"
+                                       FontAttributes="Bold"
+                                       HorizontalOptions="Start"/>
+
+                                <Frame Grid.Column="1"
+                                       Padding="6"
+                                       BackgroundColor="#3E404C"
+                                       CornerRadius="25"
+                                       HasShadow="False"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="End">
+                                    <Label Text="{Binding Type}"
+                                           TextColor="White"
+                                           FontSize="11"
+                                           FontAttributes="Bold"/>
+                                </Frame>
+                            </Grid>
+
+                            <!-- Equipos -->
+                            <Grid Grid.Row="1"
+                                  ColumnDefinitions="*,Auto,*"
+                                  VerticalOptions="Center"
+                                  ColumnSpacing="15">
+                                <VerticalStackLayout Grid.Column="0"
+                                                     HorizontalOptions="Center"
+                                                     Spacing="5">
+                                    <Image Source="{Binding HomeTeamImg}"
+                                           HeightRequest="45"
+                                           WidthRequest="45"
+                                           Aspect="AspectFit"/>
+                                    <Label Text="{Binding HomeTeam}"
+                                           TextColor="White"
+                                           FontSize="13"
+                                           FontFamily="Inter24"
+                                           HorizontalTextAlignment="Center"/>
+                                </VerticalStackLayout>
+
+                                <Label Text="{Binding Time}"
+                                       Grid.Column="1"
+                                       TextColor="#ebbd34"
+                                       FontSize="14"
+                                       FontAttributes="Bold"
+                                       VerticalOptions="Center"/>
+
+                                <VerticalStackLayout Grid.Column="2"
+                                                     HorizontalOptions="Center"
+                                                     Spacing="5">
+                                    <Image Source="{Binding AwayTeamImg}"
+                                           HeightRequest="45"
+                                           WidthRequest="45"
+                                           Aspect="AspectFit"/>
+                                    <Label Text="{Binding AwayTeam}"
+                                           TextColor="White"
+                                           FontSize="13"
+                                           FontFamily="Inter24"
+                                           HorizontalTextAlignment="Center"/>
+                                </VerticalStackLayout>
+                            </Grid>
+
+                            <!-- Cuotas -->
+                            <Grid Grid.Row="2"
+                                  ColumnDefinitions="1*,1*,1*"
+                                  ColumnSpacing="8"
+                                  HorizontalOptions="FillAndExpand">
+                                <Frame Grid.Column="0"
+                                       BackgroundColor="White"
+                                       CornerRadius="8"
+                                       Padding="8"
+                                       HasShadow="False"
+                                       HorizontalOptions="FillAndExpand">
+                                    <Label Text="{Binding Odds1, StringFormat='{0:N2}'}"
+                                           TextColor="#9B271A"
+                                           FontSize="19"
+                                           FontAttributes="Bold"
+                                           FontFamily="Inter24"
+                                           HorizontalTextAlignment="Center" />
+                                </Frame>
+
+                                <Frame Grid.Column="1"
+                                       BackgroundColor="White"
+                                       CornerRadius="8"
+                                       Padding="8"
+                                       HasShadow="False"
+                                       HorizontalOptions="FillAndExpand">
+                                    <Label Text="{Binding OddsX, StringFormat='{0:N2}'}"
+                                           TextColor="#9B271A"
+                                           FontSize="19"
+                                           FontAttributes="Bold"
+                                           FontFamily="Inter24"
+                                           HorizontalTextAlignment="Center" />
+                                </Frame>
+
+                                <Frame Grid.Column="2"
+                                       BackgroundColor="White"
+                                       CornerRadius="8"
+                                       Padding="8"
+                                       HasShadow="False"
+                                       HorizontalOptions="FillAndExpand">
+                                    <Label Text="{Binding Odds2, StringFormat='{0:N2}'}"
+                                           TextColor="#9B271A"
+                                           FontSize="19"
+                                           FontAttributes="Bold"
+                                           FontFamily="Inter24"
+                                           HorizontalTextAlignment="Center" />
+                                </Frame>
+                            </Grid>
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</ContentPage>

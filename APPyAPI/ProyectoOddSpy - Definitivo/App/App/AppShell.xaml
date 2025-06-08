@@ -1,0 +1,86 @@
+
+<Shell
+    x:Class="App.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:view="clr-namespace:App.View"
+    xmlns:local="clr-namespace:App"
+    Shell.FlyoutBehavior="Disabled"
+    Shell.BackgroundColor="#00CFFF"
+    Shell.TabBarBackgroundColor="#001c4e"
+    Shell.TabBarForegroundColor="White"
+    Shell.TabBarUnselectedColor="Yellow"
+    Shell.TabBarDisabledColor="Gray">
+
+    <Shell.TitleView>
+        <Grid ColumnDefinitions="*,Auto">
+            <Label Text="OddSpy" 
+                   FontFamily="Fantasy"
+                   FontSize="40"
+                   TextColor="White"
+                   HorizontalOptions="Center"
+                   Margin="10"/>
+
+
+            <ImageButton x:Name="ProfileIcon"
+                 Source="perfil_icon.png"
+                 WidthRequest="10"
+                 HeightRequest="10"
+                 IsVisible="{Binding IsAuthenticated}"
+                 HorizontalOptions="End"
+                 Margin="20"
+                 Clicked="ProfileIcon_Clicked"/>
+
+        </Grid>
+    </Shell.TitleView>
+    <ShellContent
+        Route="WelcomeContentPage"
+        Shell.TabBarIsVisible="False"
+        ContentTemplate="{DataTemplate view:WelcomeContentPage}" />
+
+    <ShellContent 
+        Route="Register"
+        Shell.TabBarIsVisible="False"
+        ContentTemplate="{DataTemplate view:Register}" />
+    <ShellContent 
+        Route="SureBetDetail" 
+        ContentTemplate="{DataTemplate view:SureBetDetail}"
+        Shell.TabBarIsVisible="True"/>
+
+
+    <TabBar x:Name="MainTabBar" 
+            Route="MainTabBar">
+        <ShellContent 
+            Icon="home.png"
+            ContentTemplate="{DataTemplate view:SureBetsContentPage}" />
+
+        <ShellContent 
+            Icon="compare.png" 
+            ContentTemplate="{DataTemplate view:BetsComparerContentPage}" />
+
+        <ShellContent 
+            Icon="offer.png" 
+            ContentTemplate="{DataTemplate view:PromotionsFinderContentPage}" />
+    </TabBar>
+
+    <ShellContent
+    Route="ProfilePage"
+    Shell.TabBarIsVisible="False"
+    ContentTemplate="{DataTemplate view:ProfilePage}" />
+    <ShellContent
+    Route="EditProfilePage"
+    Shell.TabBarIsVisible="True"
+    ContentTemplate="{DataTemplate view:EditProfilePage}" />
+
+    <ShellContent
+    Route="ChangePasswordPage"
+    Shell.TabBarIsVisible="True"
+    ContentTemplate="{DataTemplate view:ChangePasswordPage}" />
+
+     <ShellContent
+    Route="HistoryBet"
+    Shell.TabBarIsVisible="True"
+    ContentTemplate="{DataTemplate view:HistoryBet}" />
+
+
+</Shell>

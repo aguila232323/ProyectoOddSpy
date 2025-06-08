@@ -1,0 +1,1010 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\models\\entities\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\models\\entities\\dto\\registerusertoofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\dto\\registerusertoofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\models\\entities\\dto\\registerbetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\dto\\registerbetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\models\\entities\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\models\\entities\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\models\\entities\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\models\\entities\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\models\\entities\\useroffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\useroffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\models\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\models\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\controllers\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\controllers\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\converters\\booltotextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\converters\\booltotextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\converters\\booltocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\converters\\booltocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\historybet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\historybet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\editprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\editprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\comparerdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\comparerdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\changepasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\changepasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\alertalogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\alertalogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\betscomparercontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\betscomparercontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\betscomparercontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\betscomparercontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\editprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\editprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\offersdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\offersdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\promotionsfindercontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\promotionsfindercontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\surebetdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\surebetdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\surebetscontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\surebetscontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\welcomecontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\welcomecontentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\welcomecontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\welcomecontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\historybet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\historybet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\surebetscontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\surebetscontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\changepasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\changepasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\promotionsfindercontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\promotionsfindercontentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\surebetdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\surebetdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\comparerdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\comparerdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\offersdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\offersdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\view\\alertalogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\view\\alertalogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\model\\dto\\userofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\dto\\userofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\model\\dto\\registerusertoofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\dto\\registerusertoofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\model\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\model\\useroffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\useroffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\model\\offers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\offers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\model\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\model\\bets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\bets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\model\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\model\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\api\\api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9FCE4-C4A0-4C8F-BF81-DEC8C3CEDDCB}|API\\API\\API.csproj|solutionrelative:api\\api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|c:\\users\\prados\\downloads\\pruebas\\proyectooddspy - definitivo\\app\\app\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136A5B1-BF79-4F95-8D3D-3B7AADC49F30}|App\\App\\App.csproj|solutionrelative:app\\app\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\App.csproj",
+              "RelativeDocumentMoniker": "App\\App\\App.csproj",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\App.csproj",
+              "RelativeToolTip": "App\\App\\App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T15:56:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\DTO\\UpdateUserDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\UpdateUserDTO.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\DTO\\UpdateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:54:48.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterUserToOfferDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\RegisterUserToOfferDTO.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\DTO\\RegisterUserToOfferDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\RegisterUserToOfferDTO.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\DTO\\RegisterUserToOfferDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:54:47.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\DTO\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\LoginRequestDTO.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\DTO\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:54:46.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\AddUserDTO.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\DTO\\AddUserDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\AddUserDTO.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\DTO\\AddUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:54:44.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:20:00.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API\\API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "API\\API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T00:51:30.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bet.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\Bet.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\Bet.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\Bet.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\Bet.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:22:10.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\Offer.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\Offer.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\Offer.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\Offer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:12:50.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:21:30.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\DTO\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\DTO\\ChangePasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:13:04.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterBetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\RegisterBetDTO.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\DTO\\RegisterBetDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\DTO\\RegisterBetDTO.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\DTO\\RegisterBetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T00:35:20.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OffersController.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Controllers\\OffersController.cs",
+              "RelativeDocumentMoniker": "API\\API\\Controllers\\OffersController.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Controllers\\OffersController.cs",
+              "RelativeToolTip": "API\\API\\Controllers\\OffersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T00:41:54.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HistoryBet.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\HistoryBet.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\HistoryBet.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\HistoryBet.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\HistoryBet.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:21:50.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserOffer.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\UserOffer.cs",
+              "RelativeDocumentMoniker": "API\\API\\Models\\Entities\\UserOffer.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Models\\Entities\\UserOffer.cs",
+              "RelativeToolTip": "API\\API\\Models\\Entities\\UserOffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:12:58.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\EditProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\EditProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\EditProfilePage.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\EditProfilePage.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwF4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:37:08.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ComparerDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ComparerDetails.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\ComparerDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ComparerDetails.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\ComparerDetails.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:26:06.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BoolToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Converters\\BoolToColorConverter.cs",
+              "RelativeDocumentMoniker": "App\\App\\Converters\\BoolToColorConverter.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Converters\\BoolToColorConverter.cs",
+              "RelativeToolTip": "App\\App\\Converters\\BoolToColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:51:55.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BoolToTextConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Converters\\BoolToTextConverter.cs",
+              "RelativeDocumentMoniker": "App\\App\\Converters\\BoolToTextConverter.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Converters\\BoolToTextConverter.cs",
+              "RelativeToolTip": "App\\App\\Converters\\BoolToTextConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:51:57.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "App\\App\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\MauiProgram.cs",
+              "RelativeToolTip": "App\\App\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:20:53.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\AppShell.xaml",
+              "RelativeDocumentMoniker": "App\\App\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\AppShell.xaml",
+              "RelativeToolTip": "App\\App\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T01:16:11.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChangePasswordPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ChangePasswordPage.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\ChangePasswordPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ChangePasswordPage.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\ChangePasswordPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:37:45.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\App.xaml",
+              "RelativeDocumentMoniker": "App\\App\\App.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\App.xaml",
+              "RelativeToolTip": "App\\App\\App.xaml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:20:57.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AlertaLogin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\AlertaLogin.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\AlertaLogin.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\AlertaLogin.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\AlertaLogin.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:38:13.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BetsComparerContentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\BetsComparerContentPage.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\BetsComparerContentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\BetsComparerContentPage.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\BetsComparerContentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:02:12.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BetsComparerContentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\BetsComparerContentPage.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\BetsComparerContentPage.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\BetsComparerContentPage.xaml",
+              "RelativeToolTip": "App\\App\\View\\BetsComparerContentPage.xaml",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAcwL8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T07:57:02.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\EditProfilePage.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\EditProfilePage.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\EditProfilePage.xaml",
+              "RelativeToolTip": "App\\App\\View\\EditProfilePage.xaml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T00:55:57.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OffersDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\OffersDetails.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\OffersDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\OffersDetails.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\OffersDetails.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:36:23.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\ProfilePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:14:42.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PromotionsFinderContentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\PromotionsFinderContentPage.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\PromotionsFinderContentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\PromotionsFinderContentPage.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\PromotionsFinderContentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:02:00.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\Register.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\Register.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\Register.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:32:22.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\Register.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\Register.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\Register.xaml",
+              "RelativeToolTip": "App\\App\\View\\Register.xaml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T09:32:19.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SureBetDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\SureBetDetail.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\SureBetDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\SureBetDetail.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\SureBetDetail.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T00:46:49.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SureBetsContentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\SureBetsContentPage.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\SureBetsContentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\SureBetsContentPage.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\SureBetsContentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:29:26.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WelcomeContentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\WelcomeContentPage.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\View\\WelcomeContentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\WelcomeContentPage.xaml.cs",
+              "RelativeToolTip": "App\\App\\View\\WelcomeContentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:03:34.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WelcomeContentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\WelcomeContentPage.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\WelcomeContentPage.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\WelcomeContentPage.xaml",
+              "RelativeToolTip": "App\\App\\View\\WelcomeContentPage.xaml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T08:51:07.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HistoryBet.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\HistoryBet.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\HistoryBet.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\HistoryBet.xaml",
+              "RelativeToolTip": "App\\App\\View\\HistoryBet.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T01:21:30.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SureBetsContentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\SureBetsContentPage.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\SureBetsContentPage.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\SureBetsContentPage.xaml",
+              "RelativeToolTip": "App\\App\\View\\SureBetsContentPage.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T01:02:26.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:20:15.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ChangePasswordPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ChangePasswordPage.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\ChangePasswordPage.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ChangePasswordPage.xaml",
+              "RelativeToolTip": "App\\App\\View\\ChangePasswordPage.xaml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAF4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:22:09.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PromotionsFinderContentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\PromotionsFinderContentPage.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\PromotionsFinderContentPage.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\PromotionsFinderContentPage.xaml",
+              "RelativeToolTip": "App\\App\\View\\PromotionsFinderContentPage.xaml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T07:56:00.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ProfilePage.xaml",
+              "RelativeToolTip": "App\\App\\View\\ProfilePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T01:14:23.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SureBetDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\SureBetDetail.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\SureBetDetail.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\SureBetDetail.xaml",
+              "RelativeToolTip": "App\\App\\View\\SureBetDetail.xaml",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T01:03:28.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ComparerDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ComparerDetails.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\ComparerDetails.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\ComparerDetails.xaml",
+              "RelativeToolTip": "App\\App\\View\\ComparerDetails.xaml",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAUwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T00:56:00.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OffersDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\OffersDetails.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\OffersDetails.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\OffersDetails.xaml",
+              "RelativeToolTip": "App\\App\\View\\OffersDetails.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:25:56.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AlertaLogin.xaml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\AlertaLogin.xaml",
+              "RelativeDocumentMoniker": "App\\App\\View\\AlertaLogin.xaml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\View\\AlertaLogin.xaml",
+              "RelativeToolTip": "App\\App\\View\\AlertaLogin.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:21:30.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserOfferDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\DTO\\UserOfferDTO.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\DTO\\UserOfferDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\DTO\\UserOfferDTO.cs",
+              "RelativeToolTip": "App\\App\\Model\\DTO\\UserOfferDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:21:22.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegisterUserToOfferDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\DTO\\RegisterUserToOfferDTO.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\DTO\\RegisterUserToOfferDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\DTO\\RegisterUserToOfferDTO.cs",
+              "RelativeToolTip": "App\\App\\Model\\DTO\\RegisterUserToOfferDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:21:20.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "App\\App\\Model\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:21:19.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserOffer.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\UserOffer.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\UserOffer.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\UserOffer.cs",
+              "RelativeToolTip": "App\\App\\Model\\UserOffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:21:16.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Offers.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\Offers.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\Offers.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\Offers.cs",
+              "RelativeToolTip": "App\\App\\Model\\Offers.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:21:13.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-08T08:20:18.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\ApiConfig.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\ApiConfig.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\ApiConfig.cs",
+              "RelativeToolTip": "App\\App\\Model\\ApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:50:13.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Bets.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\Bets.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\Bets.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\Bets.cs",
+              "RelativeToolTip": "App\\App\\Model\\Bets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:07:41.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Matches.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\Matches.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\Matches.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\Matches.cs",
+              "RelativeToolTip": "App\\App\\Model\\Matches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:33:18.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\User.cs",
+              "RelativeDocumentMoniker": "App\\App\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\Model\\User.cs",
+              "RelativeToolTip": "App\\App\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T07:51:31.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API\\API.csproj",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\API.csproj",
+              "RelativeToolTip": "API\\API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T12:59:44.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-08T08:20:08.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "API\\API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "API\\API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-08T11:13:38.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API\\API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "API\\API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:19:49.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "App\\App\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\AppShell.xaml.cs",
+              "RelativeToolTip": "App\\App\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:17:08.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

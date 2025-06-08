@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:view="clr-namespace:App.View"
+             x:Class="App.View.SureBetsContentPage"
+             Shell.FlyoutBehavior="Disabled"
+             Title="SureBetsContentPage"
+             xmlns:skia="clr-namespace:SkiaSharp.Extended.UI.Controls;assembly=SkiaSharp.Extended.UI">
+
+    <Grid>
+        <Image Source="fondo.jpg" Aspect="AspectFill" 
+               HorizontalOptions="FillAndExpand" 
+               VerticalOptions="FillAndExpand" ZIndex="-1" />
+
+        <skia:SKLottieView x:Name="loadingAnimation"
+                           Source="loading.json"
+                           RepeatCount="-1"
+                           IsVisible="True"
+                           HeightRequest="250"
+                           WidthRequest="250"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center" />
+
+        <Grid RowDefinitions="Auto,*">
+            <ScrollView Orientation="Horizontal"
+                        Grid.Row="0"
+                        Padding="10"
+                        HorizontalScrollBarVisibility="Never">
+                <HorizontalStackLayout Spacing="8">
+                    <Button x:Name="SurebetsChip" Text="Surebets💰" Clicked="OnChipClicked" Style="{StaticResource ChipButtonStyle}" />
+                    <Button x:Name="BonnusLiberatorsChip" Text="BonnusLiberator🎁" Clicked="OnChipClicked" Style="{StaticResource ChipButtonStyle}" />
+                    <Button x:Name="LowerChip" ImageSource="flecha_arriba.png"  Clicked="OnChipClicked" Style="{StaticResource ChipButtonStyle}" />
+                    <Button x:Name="HigherChip" ImageSource="flecha_abajo.png" Clicked="OnChipClicked" Style="{StaticResource ChipButtonStyle}" />
+                </HorizontalStackLayout>
+            </ScrollView>
+
+            <CollectionView x:Name="collectionView" 
+                            Grid.Row="1" 
+                            SelectionMode="Single">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame CornerRadius="15" 
+                               Padding="0"
+                               Margin="10,5" 
+                               BackgroundColor="#1A1A1A"
+                               HasShadow="False"
+                               IsEnabled="True"
+                               InputTransparent="False"
+                               IsClippedToBounds="True"
+                               BorderColor="#3E404C">
+
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type view:SureBetsContentPage}}, Path=ItemTappedCommand}"
+                                    CommandParameter="{Binding .}" />
+                            </Frame.GestureRecognizers>
+
+                            <Grid RowDefinitions="Auto,Auto,Auto"  
+                                  ColumnDefinitions="*"
+                                  Padding="12"
+                                  RowSpacing="10">
+
+                                <Grid Grid.Row="0" ColumnDefinitions="*,Auto" VerticalOptions="Center">
+                                    <Label Text="⚽ Football"
+                                           TextColor="White"
+                                           FontSize="13"
+                                           FontAttributes="Bold"
+                                           HorizontalOptions="Start"/>
+
+                                    <Frame Grid.Column="1"
+                                           Padding="6"
+                                           BackgroundColor="#3E404C"
+                                           CornerRadius="25"
+                                           HasShadow="False"
+                                           VerticalOptions="Center"
+                                           IsEnabled="True"
+                                           InputTransparent="False"
+                                           IsClippedToBounds="True"
+                                           HorizontalOptions="End">
+                                        <Label Text="{Binding Type}"
+                                               TextColor="White"
+                                               FontSize="11"
+                                               FontAttributes="Bold"/>
+                                    </Frame>
+                                </Grid>
+
+                                <Grid Grid.Row="1" 
+                                      ColumnDefinitions="*,Auto,*"
+                                      VerticalOptions="Center"
+                                      ColumnSpacing="15">
+
+                                    <VerticalStackLayout Grid.Column="0" 
+                                                         HorizontalOptions="Center"
+                                                         Spacing="5">
+                                        <Image Source="{Binding HomeTeamImg}"
+                                               HeightRequest="45"
+                                               WidthRequest="45"
+                                               Aspect="AspectFit"/>
+                                        <Label Text="{Binding HomeTeam}" 
+                                               TextColor="White" 
+                                               FontSize="13"
+                                               FontFamily="Inter24"
+                                               HorizontalTextAlignment="Center"/>
+                                    </VerticalStackLayout>
+
+                                    <VerticalStackLayout Grid.Column="1"
+                                                         Spacing="2"
+                                                         HorizontalOptions="Center"
+                                                         VerticalOptions="Center">
+                                        <Label Text="{Binding BenefitPecentaje}"
+                                               FontSize="20"
+                                               TextColor="White"
+                                               Margin="0,0,0,10"
+                                               HorizontalTextAlignment="Center"/>
+                                        <Label Text="{Binding Time}" 
+                                               TextColor="#ebbd34"  
+                                               FontSize="14"
+                                               FontAttributes="Bold"
+                                               HorizontalTextAlignment="Center"/>
+                                    </VerticalStackLayout>
+
+                                    <VerticalStackLayout Grid.Column="2" 
+                                                         HorizontalOptions="Center"
+                                                         Spacing="5">
+                                        <Image Source="{Binding AwayTeamImg}"
+                                               HeightRequest="45"
+                                               WidthRequest="45"
+                                               Aspect="AspectFit"/>
+                                        <Label Text="{Binding AwayTeam}" 
+                                               TextColor="White" 
+                                               FontSize="13"
+                                               FontFamily="Inter24"
+                                               HorizontalTextAlignment="Center"/>
+                                    </VerticalStackLayout>
+                                </Grid>
+
+                                <Grid Grid.Row="2" 
+                                      ColumnDefinitions="1*,1*,1*" 
+                                      ColumnSpacing="8"
+                                      HorizontalOptions="FillAndExpand">
+
+                                    <Frame Grid.Column="0"
+                                           BackgroundColor="White"
+                                           CornerRadius="8"
+                                           Padding="8"
+                                           HasShadow="False"
+                                           IsEnabled="True"
+                                           InputTransparent="False"
+                                           IsClippedToBounds="True"
+                                           HorizontalOptions="FillAndExpand">
+                                        <Label Text="{Binding Odds1, StringFormat='{0:N2}'}"
+                                               TextColor="#9B271A"
+                                               FontSize="19"
+                                               FontAttributes="Bold"
+                                               FontFamily="Inter24"
+                                               LineBreakMode="NoWrap"
+                                               HorizontalOptions="FillAndExpand"
+                                               HorizontalTextAlignment="Center" />
+                                    </Frame>
+
+                                    <Frame Grid.Column="1"
+                                           BackgroundColor="White"
+                                           CornerRadius="8"
+                                           Padding="8"
+                                           HasShadow="False"
+                                           IsEnabled="True"
+                                           InputTransparent="False"
+                                           IsClippedToBounds="True"
+                                           HorizontalOptions="FillAndExpand">
+                                        <Label Text="{Binding OddsX, StringFormat='{0:N2}'}"
+                                               TextColor="#9B271A"
+                                               FontSize="19"
+                                               FontAttributes="Bold"
+                                               FontFamily="Inter24"
+                                               LineBreakMode="NoWrap"
+                                               HorizontalOptions="FillAndExpand"
+                                               HorizontalTextAlignment="Center" />
+                                    </Frame>
+
+                                    <Frame Grid.Column="2"
+                                           BackgroundColor="White"
+                                           CornerRadius="8"
+                                           Padding="8"
+                                           HasShadow="False"
+                                           IsEnabled="True"
+                                           InputTransparent="False"
+                                           IsClippedToBounds="True"
+                                           HorizontalOptions="FillAndExpand">
+                                        <Label Text="{Binding Odds2, StringFormat='{0:N2}'}"
+                                               TextColor="#9B271A"
+                                               FontSize="19"
+                                               FontAttributes="Bold"
+                                               FontFamily="Inter24"
+                                               LineBreakMode="NoWrap"
+                                               HorizontalOptions="FillAndExpand"
+                                               HorizontalTextAlignment="Center" />
+                                    </Frame>
+                                </Grid>
+                            </Grid>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.View.ComparerDetail"
+             Title="ComparerDetail">
+    <Grid>
+
+        <Image Source="fondo.jpg"
+               Aspect="AspectFill"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand"
+               Grid.RowSpan="2"
+               ZIndex="-1" />
+
+
+        <StackLayout Padding="20" Spacing="15">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Logo equipo local -->
+                <StackLayout Grid.Column="0" HorizontalOptions="Center">
+                    <Image Source="{Binding SelectedMatch.HomeTeamImg}" HeightRequest="80" WidthRequest="80" />
+                    <Label Text="{Binding SelectedMatch.HomeTeam}" FontSize="16" TextColor="White" FontFamily="Inter24"/>
+                </StackLayout>
+
+                <!-- Tiempo-->
+                <StackLayout Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center">
+                    <Label Text="{Binding SelectedMatch.Time}" FontSize="18" TextColor="White" FontFamily="Inter24"/>
+                    <Label Text="{Binding SelectedMatch.Type}" FontSize="14" TextColor="White" FontFamily="Inter24"/>
+                    <Label Text="{Binding SelectedMatch.BenefitPecentaje}" FontSize="20" TextColor="LightGreen" FontFamily="Inter24"/>
+                </StackLayout>
+
+                <!-- Logo equipo visitante -->
+                <StackLayout Grid.Column="2" HorizontalOptions="Center">
+                    <Image Source="{Binding SelectedMatch.AwayTeamImg}" HeightRequest="80" WidthRequest="80" />
+                    <Label Text="{Binding SelectedMatch.AwayTeam}" FontSize="16" TextColor="White" FontFamily="Inter24"/>
+                </StackLayout>
+            </Grid>
+
+            <!-- Cuotas y logos -->
+            <Grid Margin="0,20,0,0"
+                  ColumnDefinitions="1*,1*,1*"
+                  ColumnSpacing="8"
+                  RowDefinitions="Auto,Auto"
+                  HorizontalOptions="FillAndExpand">
+
+                <Frame Grid.Row="0" Grid.Column="0"
+                       BackgroundColor="#20FFFFFF"
+                       CornerRadius="8"
+                       Padding="8"
+                       HasShadow="False"
+                       BorderColor="#40FFFFFF"
+                       HorizontalOptions="FillAndExpand">
+                    <VerticalStackLayout Spacing="4">
+                        <Label Text="1"
+                               FontSize="16"
+                               TextColor="White"
+                               HorizontalOptions="Center"/>
+                        <Label Text="{Binding SelectedMatch.Odds1, StringFormat='{0:N2}'}"
+                               FontSize="19"
+                               FontAttributes="Bold"
+                               TextColor="White"
+                               FontFamily="Inter24"
+                               HorizontalOptions="Center"/>
+                    </VerticalStackLayout>
+                </Frame>
+
+                <Frame Grid.Row="0" Grid.Column="1"
+                       BackgroundColor="#20FFFFFF"
+                       CornerRadius="8"
+                       Padding="8"
+                       HasShadow="False"
+                       BorderColor="#40FFFFFF"
+                       HorizontalOptions="FillAndExpand">
+                    <VerticalStackLayout Spacing="4">
+                        <Label Text="X"
+                               FontSize="16"
+                               TextColor="White"
+                               HorizontalOptions="Center"/>
+                        <Label Text="{Binding SelectedMatch.OddsX, StringFormat='{0:N2}'}"
+                               FontSize="19"
+                               FontAttributes="Bold"
+                               TextColor="White"
+                               FontFamily="Inter24"
+                               HorizontalOptions="Center"/>
+                    </VerticalStackLayout>
+                </Frame>
+
+                <Frame Grid.Row="0" Grid.Column="2"
+                       BackgroundColor="#20FFFFFF"
+                       CornerRadius="8"
+                       Padding="8"
+                       HasShadow="False"
+                       BorderColor="#40FFFFFF"
+                       HorizontalOptions="FillAndExpand">
+                    <VerticalStackLayout Spacing="4">
+                        <Label Text="2"
+                               FontSize="16"
+                               TextColor="White"
+                               HorizontalOptions="Center"/>
+                        <Label Text="{Binding SelectedMatch.Odds2, StringFormat='{0:N2}'}"
+                               FontSize="19"
+                               FontAttributes="Bold"
+                               TextColor="White"
+                               FontFamily="Inter24"
+                               HorizontalOptions="Center"/>
+                    </VerticalStackLayout>
+                </Frame>
+
+                <Frame Grid.Row="1" Grid.Column="0"
+                       BackgroundColor="#10FFFFFF"
+                       CornerRadius="8"
+                       Padding="4"
+                       HasShadow="False"
+                       BorderColor="#40FFFFFF"
+                       HorizontalOptions="FillAndExpand">
+                    <Image Source="{Binding Casino1Logo}"
+                           HeightRequest="45"
+                           WidthRequest="70"
+                           HorizontalOptions="Center"/>
+                </Frame>
+
+                <Frame Grid.Row="1" Grid.Column="1"
+                       BackgroundColor="#10FFFFFF"
+                       CornerRadius="8"
+                       Padding="4"
+                       HasShadow="False"
+                       BorderColor="#40FFFFFF"
+                       HorizontalOptions="FillAndExpand">
+                    <Image Source="{Binding CasinoXLogo}"
+                           HeightRequest="45"
+                            WidthRequest="70"
+                           HorizontalOptions="Center"/>
+                </Frame>
+
+                <Frame Grid.Row="1" Grid.Column="2"
+                       BackgroundColor="#10FFFFFF"
+                       CornerRadius="8"
+                       Padding="4"
+                       HasShadow="False"
+                       BorderColor="#40FFFFFF"
+                       HorizontalOptions="FillAndExpand">
+                    <Image Source="{Binding Casino2Logo}"
+                           HeightRequest="45"
+                           WidthRequest="70"
+                           HorizontalOptions="Center"/>
+                </Frame>
+            </Grid>
+        </StackLayout>
+    </Grid>
+</ContentPage>

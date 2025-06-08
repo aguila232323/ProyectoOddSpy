@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.View.Register"
+             Title="Crear cuenta"
+             NavigationPage.HasNavigationBar="False">
+
+    <Grid>
+        <Image Source="fondo.jpg"
+               Aspect="AspectFill"
+               HorizontalOptions="Fill"
+               VerticalOptions="Fill"
+               ZIndex="-1" />
+
+        <ScrollView Padding="30,10">
+            <VerticalStackLayout Spacing="15" VerticalOptions="CenterAndExpand">
+
+                <!-- Logo -->
+                <Image Source="logooddspy.png" 
+                       HeightRequest="300"
+                       WidthRequest="300"
+                       HorizontalOptions="Center"
+                       Margin="0,0,0,10" />
+
+                <Label Text="¡Bienvenido!" 
+                       FontSize="32" 
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"
+                       TextColor="White" />
+
+                <Label Text="Crea tu cuenta para empezar" 
+                       FontSize="16" 
+                       HorizontalOptions="Center"
+                       TextColor="White"
+                       Margin="0,0,0,10" />
+
+                <!-- Formulario  -->
+                <Frame BackgroundColor="#20FFFFFF"
+                       CornerRadius="12"
+                       Padding="20"
+                       HasShadow="False"
+                       BorderColor="#40FFFFFF">
+
+                    <VerticalStackLayout Spacing="15">
+
+                        <!-- Campo Usuario -->
+                        <Frame BackgroundColor="#40FFFFFF"
+                               CornerRadius="8"
+                               Padding="0"
+                               HasShadow="False"
+                               BorderColor="#60FFFFFF">
+                            <Entry x:Name="UsernameEntry"
+                                   Placeholder="Usuario" 
+                                   Keyboard="Default"
+                                   BackgroundColor="Transparent"
+                                   PlaceholderColor="White"
+                                   TextColor="White"
+                                   HeightRequest="50" />
+                        </Frame>
+
+                        <!-- Campo Email -->
+                        <Frame BackgroundColor="#40FFFFFF"
+                               CornerRadius="8"
+                               Padding="0"
+                               HasShadow="False"
+                               BorderColor="#60FFFFFF">
+                            <Entry x:Name="EmailEntry"
+                                   Placeholder="Correo electrónico"
+                                   Keyboard="Email"
+                                   BackgroundColor="Transparent"
+                                   PlaceholderColor="White"
+                                   TextColor="White"
+                                   HeightRequest="50" />
+                        </Frame>
+
+                        <!-- Campo Contraseña -->
+                        <Frame BackgroundColor="#40FFFFFF"
+                               CornerRadius="8"
+                               Padding="0"
+                               HasShadow="False"
+                               BorderColor="#60FFFFFF">
+                            <Entry x:Name="PasswordEntry"
+                                   Placeholder="Contraseña"
+                                   IsPassword="True"
+                                   BackgroundColor="Transparent"
+                                   PlaceholderColor="White"
+                                   TextColor="White"
+                                   HeightRequest="50" />
+                        </Frame>
+
+                        <!-- Botón de Registro -->
+                        <Button Text="Registrarse"
+                                BackgroundColor="#007AFF"
+                                TextColor="White"
+                                FontAttributes="Bold"
+                                HeightRequest="50"
+                                CornerRadius="25"
+                                Clicked="OnRegisterClicked" />
+
+                        <Label x:Name="ErrorLabel"
+                               TextColor="Red"
+                               IsVisible="False"
+                               HorizontalOptions="Center" />
+
+                    </VerticalStackLayout>
+                </Frame>
+            </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>

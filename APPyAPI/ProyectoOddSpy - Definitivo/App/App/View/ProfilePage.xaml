@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.View.ProfilePage"
+             Title="Mi Perfil"
+             BackgroundColor="{AppThemeBinding Light=White, Dark=#0A0A23}"
+             xmlns:controls="clr-namespace:Microsoft.Maui.Controls">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="25">
+
+            <!-- Foto de perfil -->
+            <Frame HorizontalOptions="Center"
+                   CornerRadius="75"
+                   HeightRequest="150"
+                   WidthRequest="150"
+                   Padding="0"
+                   IsClippedToBounds="True"
+                   BackgroundColor="#E0E7FF" 
+                   HasShadow="True">
+                <Image x:Name="ProfileImage"
+                       Source="logooddspy.png"
+                       Aspect="AspectFill"
+                       HeightRequest="150"
+                       WidthRequest="150"/>
+            </Frame>
+
+            <Label Text="Mi Perfil"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   TextColor="{AppThemeBinding Light=#1E3A8A, Dark=#BFDBFE}"
+                   HorizontalOptions="Center" />
+
+            <!--Información del usuario -->
+            <Frame CornerRadius="16"
+                   Padding="20"
+                   BackgroundColor="{AppThemeBinding Light=#F0F4FF, Dark=#1E293B}"
+                   BorderColor="{AppThemeBinding Light=#BFDBFE, Dark=#475569}">
+                <StackLayout Spacing="18">
+
+
+                    <HorizontalStackLayout Spacing="15" VerticalOptions="Center">
+                        <Image Source="avatar.png"
+                               HeightRequest="24"
+                               WidthRequest="24"/>
+                        <Label Text="Nombre:"
+                               FontAttributes="Bold"
+                               FontSize="16"
+                               TextColor="{AppThemeBinding Light=#2563EB, Dark=#93C5FD}"/>
+                        <Label x:Name="UserNameLabel"
+                               Text="Cargando..."
+                               FontSize="16"
+                               TextColor="{AppThemeBinding Light=#1E40AF, Dark=White}"/>
+                    </HorizontalStackLayout>
+
+                    <HorizontalStackLayout Spacing="15" VerticalOptions="Center">
+                        <Image Source="email.png"
+                               HeightRequest="24"
+                               WidthRequest="24"/>
+                        <Label Text="Email:"
+                               FontAttributes="Bold"
+                               FontSize="16"
+                               TextColor="{AppThemeBinding Light=#2563EB, Dark=#93C5FD}"/>
+                        <Label x:Name="UserEmailLabel"
+                               Text="Cargando..."
+                               FontSize="16"
+                               TextColor="{AppThemeBinding Light=#1E40AF, Dark=White}"/>
+                    </HorizontalStackLayout>
+
+                    <!-- FreeBets -->
+                    <HorizontalStackLayout Spacing="15" VerticalOptions="Center">
+                        <Image Source="logofreebets.png" 
+                            HeightRequest="24"
+                               WidthRequest="24"/>
+                            <Label Text="FreeBets:"
+                               FontAttributes="Bold"
+                               FontSize="16"
+                               TextColor="{AppThemeBinding Light=#2563EB, Dark=#93C5FD}"/>
+                            <Label x:Name="UserFreeBetsLabel"
+                               Text="0"
+                               FontSize="16"
+                               TextColor="#10B981"
+                                FontAttributes="Bold"/>
+                    </HorizontalStackLayout>
+
+                </StackLayout>
+            </Frame>
+
+            <!-- Botones -->
+            <Button Text="Editar Perfil"
+                    CornerRadius="10"
+                    BackgroundColor="#FBBF24"
+                    TextColor="#1E40AF"
+                    FontAttributes="Bold"
+                    HeightRequest="50"
+                    Clicked="OnEditProfileClicked"/>
+
+            <Button Text="Cambiar Contraseña"
+                    CornerRadius="10"
+                    BackgroundColor="#FBBF24"
+                    TextColor="#1E40AF"
+                    FontAttributes="Bold"
+                    HeightRequest="50"
+                    Clicked="OnChangePasswordClicked"/>
+
+            <Button Text="Historial Apuestas"
+                    CornerRadius="10"
+                    BackgroundColor="#FBBF24"
+                    TextColor="#1E40AF"
+                    FontAttributes="Bold"
+                    HeightRequest="50"
+                    Clicked="OnHistoryBetsClicked"/>
+
+            <Button Text="Cerrar Sesión"
+                    CornerRadius="10"
+                    BackgroundColor="#1E40AF"
+                    TextColor="White"
+                    FontAttributes="Bold"
+                    Clicked="CerrarSesion_Clicked"
+                    HeightRequest="50"/>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

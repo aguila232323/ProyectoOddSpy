@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.View.PromotionsFinderContentPage"
+             Shell.FlyoutBehavior="Disabled"
+             xmlns:skia="clr-namespace:SkiaSharp.Extended.UI.Controls;assembly=SkiaSharp.Extended.UI"
+             xmlns:local="clr-namespace:App.View"
+             Title="Promociones">
+
+    <Grid>
+        <!-- Imagen de fondo -->
+        <Image Source="fondo.jpg"
+               Aspect="AspectFill"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand"
+               Grid.RowSpan="2"
+               ZIndex="-1" />
+        <skia:SKLottieView x:Name="loadingAnimation"
+                   Grid.Row="1"
+                   Source="loading.json"
+                   RepeatCount="-1"
+                   IsVisible="True"
+                   HeightRequest="250"
+                   WidthRequest="250"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center" />
+
+        <!-- Lista de promociones -->
+        <CollectionView x:Name="collectionView"
+                        ItemsLayout="VerticalList"
+                        Margin="10">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Padding="0"
+                           CornerRadius="20"
+                           Margin="5"
+                           HasShadow="True">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer 
+                                Command="{Binding Source={RelativeSource AncestorType={x:Type local:PromotionsFinderContentPage}}, Path=ItemTappedCommand}"
+                                CommandParameter="{Binding .}" />
+                        </Frame.GestureRecognizers>
+
+                        <Grid>
+                            <!-- Imagen de la promoción -->
+                            <Image Source="{Binding BannerImg}"
+                                   Aspect="AspectFill"
+                                   HeightRequest="200"
+                                   HorizontalOptions="FillAndExpand"
+                                   VerticalOptions="FillAndExpand" />
+
+                            <!-- Información -->
+                            <StackLayout Padding="10"
+                                          VerticalOptions="End"
+                                          BackgroundColor="#80000000">
+                                <Label Text="{Binding Title}"
+                                       TextColor="White"
+                                       FontAttributes="Bold"
+                                       FontSize="Large" />
+                                <Label Text="{Binding Description}" 
+                                       TextColor="White"
+                                       FontSize="Small" />
+                            </StackLayout>
+
+                        
+                            <Frame Padding="6"
+                                   BackgroundColor="#3E404C"
+                                   CornerRadius="25"
+                                   HasShadow="False"
+                                   VerticalOptions="Start"
+                                   HorizontalOptions="End"
+                                   Margin="10"
+                                   IsClippedToBounds="True">
+                                <Label Text="{Binding Type}"
+                                       TextColor="White"
+                                       FontSize="11"
+                                       FontAttributes="Bold"/>
+                            </Frame>
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+
+</ContentPage>

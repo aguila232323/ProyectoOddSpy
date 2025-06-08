@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<toolkit:Popup xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+               xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+               xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+               xmlns:skia="clr-namespace:SkiaSharp.Extended.UI.Controls;assembly=SkiaSharp.Extended.UI"
+               x:Class="App.View.AlertaLogin"
+               Color="Transparent">
+
+    <Grid BackgroundColor="Transparent"
+          VerticalOptions="Center"
+          HorizontalOptions="Center">
+
+        <skia:SKLottieView
+            Source="verification.json"
+            HeightRequest="450"
+            WidthRequest="450">
+            <skia:SKLottieView.GestureRecognizers>
+                <TapGestureRecognizer Tapped="OnCloseClicked"/>
+            </skia:SKLottieView.GestureRecognizers>
+
+        </skia:SKLottieView>
+
+    </Grid>
+
+</toolkit:Popup>
+
+    
+  
+    
+    
