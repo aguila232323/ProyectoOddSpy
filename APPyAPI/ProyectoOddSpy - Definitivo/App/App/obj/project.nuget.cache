@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "whw62uCShPU=",
+  "dgSpecHash": "8gtWZcueAwg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\App\\App\\App.csproj",
+  "projectFilePath": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APPyAPI\\ProyectoOddSpy - Definitivo\\App\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Prados\\.nuget\\packages\\communitytoolkit.maui\\11.2.0\\communitytoolkit.maui.11.2.0.nupkg.sha512",
     "C:\\Users\\Prados\\.nuget\\packages\\communitytoolkit.maui.core\\11.2.0\\communitytoolkit.maui.core.11.2.0.nupkg.sha512",

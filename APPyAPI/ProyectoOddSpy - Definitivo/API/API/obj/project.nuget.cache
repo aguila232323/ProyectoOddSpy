@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sw2HukeFtbc=",
+  "dgSpecHash": "QchCeDLx9BM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Prados\\Downloads\\Pruebas\\ProyectoOddSpy - Definitivo\\API\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Prados\\Downloads\\github\\ProyectoFinal\\ProyectoOddSpy\\APPyAPI\\ProyectoOddSpy - Definitivo\\API\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Prados\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Prados\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

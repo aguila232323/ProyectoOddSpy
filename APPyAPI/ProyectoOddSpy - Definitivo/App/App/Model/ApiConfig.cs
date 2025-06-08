@@ -8,7 +8,7 @@ namespace App.Model
 {
     public static class ApiConfig
     {
-        public static string BaseUrl { get; } = "http://192.168.1.75:5016";
+        public static string BaseUrl { get; } = "http://oddspy.store";
 
     }
 }

@@ -12,109 +12,109 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = App
-build_property.ProjectDir = C:\Users\Prados\Downloads\Pruebas\ProyectoOddSpy - Definitivo\App\App\
+build_property.ProjectDir = C:\Users\Prados\Downloads\github\ProyectoFinal\ProyectoOddSpy\APPyAPI\ProyectoOddSpy - Definitivo\App\App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/App.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/AppShell.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/Resources/Styles/Colors.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/Resources/Styles/Styles.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/AlertaLogin.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/AlertaLogin.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.AlertaLogin.xaml
 build_metadata.AdditionalFiles.TargetPath = View\AlertaLogin.xaml
 build_metadata.AdditionalFiles.RelativePath = View\AlertaLogin.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/BetsComparerContentPage.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/BetsComparerContentPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.BetsComparerContentPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\BetsComparerContentPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\BetsComparerContentPage.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/ChangePasswordPage.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/ChangePasswordPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.ChangePasswordPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\ChangePasswordPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\ChangePasswordPage.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/ComparerDetails.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/ComparerDetails.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.ComparerDetails.xaml
 build_metadata.AdditionalFiles.TargetPath = View\ComparerDetails.xaml
 build_metadata.AdditionalFiles.RelativePath = View\ComparerDetails.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/EditProfilePage.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/EditProfilePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.EditProfilePage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\EditProfilePage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\EditProfilePage.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/HistoryBet.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/HistoryBet.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.HistoryBet.xaml
 build_metadata.AdditionalFiles.TargetPath = View\HistoryBet.xaml
 build_metadata.AdditionalFiles.RelativePath = View\HistoryBet.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/OffersDetails.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/OffersDetails.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.OffersDetails.xaml
 build_metadata.AdditionalFiles.TargetPath = View\OffersDetails.xaml
 build_metadata.AdditionalFiles.RelativePath = View\OffersDetails.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/ProfilePage.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/ProfilePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.ProfilePage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\ProfilePage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\ProfilePage.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/PromotionsFinderContentPage.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/PromotionsFinderContentPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.PromotionsFinderContentPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\PromotionsFinderContentPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\PromotionsFinderContentPage.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/Register.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/Register.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.Register.xaml
 build_metadata.AdditionalFiles.TargetPath = View\Register.xaml
 build_metadata.AdditionalFiles.RelativePath = View\Register.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/SureBetDetail.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/SureBetDetail.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.SureBetDetail.xaml
 build_metadata.AdditionalFiles.TargetPath = View\SureBetDetail.xaml
 build_metadata.AdditionalFiles.RelativePath = View\SureBetDetail.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/SureBetsContentPage.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/SureBetsContentPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.SureBetsContentPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\SureBetsContentPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\SureBetsContentPage.xaml
 
-[C:/Users/Prados/Downloads/Pruebas/ProyectoOddSpy - Definitivo/App/App/View/WelcomeContentPage.xaml]
+[C:/Users/Prados/Downloads/github/ProyectoFinal/ProyectoOddSpy/APPyAPI/ProyectoOddSpy - Definitivo/App/App/View/WelcomeContentPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = App.View.WelcomeContentPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\WelcomeContentPage.xaml
