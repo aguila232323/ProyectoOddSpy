@@ -106,12 +106,6 @@ Procesamiento y estandarización (Python)
 
 ---
 
----
-
----
-
----
-
 ## 📷 Capturas de Pantalla
 
 A continuación se muestran algunas pantallas clave de la aplicación Oddspy:
@@ -129,7 +123,7 @@ A continuación se muestran algunas pantallas clave de la aplicación Oddspy:
   <img src="./ImagenesApp/surebets.png" alt="surebets" width="300"/>
 
 - 👤 **Perfil del usuario**  
-  <img src="./ImagenesApp/profile.png" alt="profile" width="300"/>
+  <img src="./ImagenesApp/profile2.png" alt="profile" width="300"/>
 
 - 🔎 **Detalle de Surebet**  
   <img src="./ImagenesApp/surebetDetail.png" alt="surebetDetail" width="300"/>
