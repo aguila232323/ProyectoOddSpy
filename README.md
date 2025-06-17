@@ -110,30 +110,33 @@ Procesamiento y estandarización (Python)
 
 ---
 
+---
+
 ## 📷 Capturas de Pantalla
 
 A continuación se muestran algunas pantallas clave de la aplicación Oddspy:
 
 - 🔐 **Inicio de sesión**  
-  ![login.png](./ImagenesApp/login.png)
+  <img src="./ImagenesApp/login.png" alt="login" width="300"/>
 
 - 🆕 **Registro de usuario**  
-  ![register.png](./ImagenesApp/register.png)
+  <img src="./ImagenesApp/register.png" alt="register" width="300"/>
 
 - 🎁 **Ofertas y Bonos**  
-  ![offers.png](./ImagenesApp/offers.png)
+  <img src="./ImagenesApp/offers.png" alt="offers" width="300"/>
 
 - 🧠 **Surebets disponibles**  
-  ![surebets.png](./ImagenesApp/surebets.png)
+  <img src="./ImagenesApp/surebets.png" alt="surebets" width="300"/>
 
 - 👤 **Perfil del usuario**  
-  ![profile.png](./ImagenesApp/profile.png)
+  <img src="./ImagenesApp/profile.png" alt="profile" width="300"/>
 
 - 🔎 **Detalle de Surebet**  
-  ![surebetDetail.png](./ImagenesApp/surebetDetail.png)
+  <img src="./ImagenesApp/surebetDetail.png" alt="surebetDetail" width="300"/>
 
 - 📦 **Detalle de Oferta**  
-  ![offerDetail.png](./ImagenesApp/offerDetail.png)
+  <img src="./ImagenesApp/offerDetail.png" alt="offerDetail" width="300"/>
+
 
 
 ## 📚 Créditos y Bibliografía
